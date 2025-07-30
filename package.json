@@ -1,0 +1,5 @@
+{
+    "name": "YureAlert",
+    "main": "electron-main.js",
+    "version": "1.3.2"
+}
